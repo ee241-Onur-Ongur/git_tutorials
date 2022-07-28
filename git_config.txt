@@ -1,0 +1,3 @@
+git config --global user.name "githubusername"
+git config --global user.email "useremail"
+git config --global -l
