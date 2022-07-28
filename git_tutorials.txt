@@ -1,0 +1,14 @@
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/userName/repoName.git
+git init
+git add README.md
+git commit -m "First commit"
+git branch -M main
+git remote add origin https://github.com/ee241-Onur-Ongur/git_tutorials.git 
+clear
+ 
+
+
